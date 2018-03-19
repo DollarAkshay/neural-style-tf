@@ -19,20 +19,20 @@ The Neural Style algorithm synthesizes a [pastiche](https://en.wikipedia.org/wik
 </p>
  
 <p align="center">
-<img src="examples/lions/abstract_ink.png" width="30%"/>
-<img src="examples/lions/blue_flame.png" width="30%"/>
-<img src="examples/lions/fractal_1.png" width="30%"/>
-<img src="examples/lions/fractal_2.png" width="30%"/>
-<img src="examples/lions/fractal_3.png" width="30%"/>
-<img src="examples/lions/fractal_4.png" width="30%"/>
-<img src="examples/lions/fractal_5.png" width="30%"/>
-<img src="examples/lions/fractal_6.png" width="30%"/>
-<img src="examples/lions/fractal_7.png" width="30%"/>
-<img src="examples/lions/fractal_8.png" width="30%"/>
-<img src="examples/lions/fractal_9.png" width="30%"/>
-<img src="examples/lions/fractal_10.png" width="30%"/>
-<img src="examples/lions/mona_lisa.png" width="30%"/>
-<img src="examples/lions/phoenix.png" width="30%"/>
-<img src="examples/lions/trapcode_red.png" width="30%"/>
+<img src="examples/lions/abstract_ink.png"  width="30%"/>
+<img src="examples/lions/blue_flame.png"    width="30%"/>
+<img src="examples/lions/fractal_1.png"     width="30%"/>
+<img src="examples/lions/fractal_2.png"     width="30%"/>
+<img src="examples/lions/fractal_3.png"     width="30%"/>
+<img src="examples/lions/fractal_4.png"     width="30%"/>
+<img src="examples/lions/fractal_5.png"     width="30%"/>
+<img src="examples/lions/fractal_6.png"     width="30%"/>
+<img src="examples/lions/fractal_7.png"     width="30%"/>
+<img src="examples/lions/fractal_8.png"     width="30%"/>
+<img src="examples/lions/fractal_9.png"     width="30%"/>
+<img src="examples/lions/fractal_10.png"    width="30%"/>
+<img src="examples/lions/mona_lisa.png"     width="30%"/>
+<img src="examples/lions/phoenix.png"       width="30%"/>
+<img src="examples/lions/trapcode_red.png"  width="30%"/>
 </p>
 
