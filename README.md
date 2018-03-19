@@ -15,9 +15,9 @@ Additionally, techniques are presented for semantic segmentation and multiple st
 The Neural Style algorithm synthesizes a [pastiche](https://en.wikipedia.org/wiki/Pastiche) by separating and combining the content of one image with the style of another image using convolutional neural networks (CNN). Below are some examples and renders.
 
 <p>
-<img src="examples/lions/#original.png" width="25%"/>
+<img src="examples/lions/%23original.png" width="25%"/>
 <img src="examples/lions/abstract_ink.png" width="25%"/>
-<img src="examples/lions/blue_flames.png" width="25%"/>
+<img src="examples/lions/blue_flame.png" width="25%"/>
 <img src="examples/lions/fractal_1.png" width="25%"/>
 <img src="examples/lions/fractal_2.png" width="25%"/>
 <img src="examples/lions/fractal_3.png" width="25%"/>
