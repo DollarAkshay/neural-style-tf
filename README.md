@@ -36,3 +36,6 @@ The Neural Style algorithm synthesizes a [pastiche](https://en.wikipedia.org/wik
 <img src="examples/lions/trapcode_red.png"  width="30%"/>
 </p>
 
+
+## Deviant Art Gallery
+Link : https://dollarakshay.deviantart.com/gallery/65955859/Neural-Network-Style-Transfer
